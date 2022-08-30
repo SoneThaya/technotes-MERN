@@ -54,6 +54,6 @@ const NotesList = () => {
     );
   }
 
-  return content;
+  return <>{content}</>;
 };
 export default NotesList;
